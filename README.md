@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cagbog
-- 👀 I’m interested in Footbal
+- 👋 Hi, I’m Cagin
+- 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me https://www.linkedin.com/in/caginbogurcu/
